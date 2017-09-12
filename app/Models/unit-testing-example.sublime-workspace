@@ -1,0 +1,1242 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getF",
+				"getFullName"
+			],
+			[
+				"ema",
+				"$emailVariables〔variable〕"
+			],
+			[
+				"assert",
+				"assertEquals"
+			],
+			[
+				"ass",
+				"assertEquals"
+			],
+			[
+				"fun",
+				"fun\tfunction …"
+			],
+			[
+				"cla",
+				"class\tclass …"
+			],
+			[
+				"vec",
+				"vector2D"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"th",
+				"thePet〔variable〕"
+			],
+			[
+				"su",
+				"super〔class〕"
+			],
+			[
+				"t",
+				"tmpMethod"
+			],
+			[
+				"f",
+				"format〔function〕"
+			],
+			[
+				"atn",
+				"atan2〔function〕"
+			],
+			[
+				"ma",
+				"math〔module〕"
+			],
+			[
+				"V",
+				"Vector2D"
+			],
+			[
+				"m",
+				"math"
+			],
+			[
+				"ve",
+				"vec2〔variable〕"
+			],
+			[
+				"re",
+				"return〔keyword〕"
+			],
+			[
+				"N",
+				"Number"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"log",
+				"logger"
+			],
+			[
+				"call",
+				"calls_ids"
+			],
+			[
+				"arg",
+				"arg_parser"
+			],
+			[
+				"ar",
+				"arg_parser"
+			],
+			[
+				"lo",
+				"logger"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"beep",
+				"beepcall_status"
+			],
+			[
+				"agr",
+				"aggregated_data"
+			],
+			[
+				"ro",
+				"roaming_calls"
+			],
+			[
+				"beepcall",
+				"beepcall_success"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"cur",
+				"cursor.execute"
+			],
+			[
+				"aggregated",
+				"aggregated_data"
+			],
+			[
+				"conn",
+				"connection"
+			],
+			[
+				"db",
+				"dbCommitAndClose"
+			],
+			[
+				"con",
+				"connection"
+			],
+			[
+				"c",
+				"cursor_factory"
+			],
+			[
+				"de",
+				"deleted_rows_count"
+			],
+			[
+				"print",
+				"print〔function〕"
+			],
+			[
+				"call_",
+				"calls_ids"
+			],
+			[
+				"ca",
+				"calls_ids"
+			],
+			[
+				"co",
+				"connect_string"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"f_",
+				"f_off_net"
+			],
+			[
+				"da",
+				"day_summary_struct〔variable〕"
+			],
+			[
+				"row",
+				"rows"
+			],
+			[
+				"rec",
+				"recipientInfo"
+			],
+			[
+				"url",
+				"urldecode"
+			],
+			[
+				"u",
+				"urldecode"
+			],
+			[
+				"send",
+				"sendSMS"
+			],
+			[
+				"res",
+				"responseData"
+			],
+			[
+				"def",
+				"defaultStatus"
+			],
+			[
+				"ba",
+				"barring"
+			],
+			[
+				"barr",
+				"barrings"
+			],
+			[
+				"lof",
+				"logFile"
+			],
+			[
+				"ini",
+				"initializeCall"
+			],
+			[
+				"error",
+				"error_code"
+			],
+			[
+				"eve",
+				"eventTimestamp"
+			],
+			[
+				"PDO",
+				"PDOException"
+			],
+			[
+				"a",
+				"attemptsCount"
+			],
+			[
+				"sms",
+				"smsDictId"
+			],
+			[
+				"dic",
+				"dictData"
+			],
+			[
+				"respon",
+				"responses"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"array_inter",
+				"array_intersect_key"
+			],
+			[
+				"cal",
+				"callStatus"
+			],
+			[
+				"lgo",
+				"logFile"
+			],
+			[
+				"sm",
+				"smsStatus"
+			],
+			[
+				"sim",
+				"simplexml_load_string"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"curl_e",
+				"curl_exec"
+			],
+			[
+				"sen",
+				"sendSMS"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"curl_se",
+				"curl_setopt_array"
+			],
+			[
+				"curl",
+				"curl_setopt"
+			],
+			[
+				"fg",
+				"fgets"
+			],
+			[
+				"as",
+				"asterParams"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"au",
+				"autoload-dev"
+			],
+			[
+				"set",
+				"settings"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"input",
+				"inputParams"
+			],
+			[
+				"bas",
+				"baseRecordInfo"
+			],
+			[
+				"reg",
+				"register_tick_function"
+			],
+			[
+				"list",
+				"server.listen"
+			],
+			[
+				"http",
+				"http.createServer(requestListener);"
+			],
+			[
+				"package",
+				"package_path"
+			],
+			[
+				"pack",
+				"package_loaded"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ov",
+				"ov\toverflow: ${1:hidden};"
+			],
+			[
+				"bg",
+				"bg\tbackground: #${1:000};"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"promo",
+				"promoIndex"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/ionik/Development/sandbox/php/unit-testing/tests/unit/UserTest.php",
+			"settings":
+			{
+				"buffer_size": 2167,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "User.php",
+			"settings":
+			{
+				"buffer_size": 912,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Default/Syntax Tests.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				]
+			],
+			[
+				"Packages/Default/Syntax Tests.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					""
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Install"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Cross-Compile (Interactive)"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Golang Build/Go.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LuaExtended/LuaExtended.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LuaExtended/LuaExtended.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/PHP.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 132.0,
+		"last_filter": "isntall",
+		"selected_items":
+		[
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"synbas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"synsq",
+				"Set Syntax: SQL"
+			],
+			[
+				"se",
+				"Set Syntax: PHP"
+			],
+			[
+				"ind",
+				"Indent XML"
+			],
+			[
+				"packi",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: Java Properties"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sft",
+				"SFTP: Show Panel"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"sep",
+				"Set Syntax: PHP"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"pak",
+				"Package Control: List Packages"
+			],
+			[
+				"paki",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"pakcre",
+				"Package Control: Remove Package"
+			],
+			[
+				"pakre",
+				"Package Control: Remove Package"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"setht",
+				"Set Syntax: HTML"
+			],
+			[
+				"insp",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ionik/Development/sandbox/php/unit-testing/app",
+		"/home/ionik/Development/sandbox/php/unit-testing/tests",
+		"/home/ionik/Development/sandbox/php/unit-testing/tests/unit"
+	],
+	"file_history":
+	[
+		"/home/ionik/Development/sandbox/php/unit-testing/tests/unit/SampleTest.php",
+		"/home/ionik/Development/sandbox/php/unit-testing/phpunit.xml",
+		"/home/ionik/Development/sandbox/php/unit-testing/composer.json",
+		"/home/ionik/Development/sandbox/php/unit-testing/composer.lock",
+		"/home/ionik/Projects/personal/java-playground/README.md",
+		"/home/ionik/tmp/PythonLearning/IntermediateTutorial/vector2D.py",
+		"/home/ionik/tmp/PythonLearning/IntermediateTutorial/mod.py",
+		"/home/ionik/tmp/PythonLearning/IntermediateTutorial/reverse.py",
+		"/home/ionik/tmp/PythonLearning/IntermediateTutorial/iter.py",
+		"/home/ionik/Downloads/watchandcode/1. TodoMVC jQuery/1. TodoMVC jQuery Part 1.txt",
+		"/home/ionik/.config/sublime-text-3/Packages/GoSublime/CHANGELOG.md",
+		"/home/ionik/Downloads/learn-node/lesson02.srt",
+		"/home/ionik/Downloads/learn-node/NODE_srt/lesson02.srt",
+		"/home/ionik/Downloads/learn-node/NODE_srt/02 - Setting up Mongo DB.vtt",
+		"/home/ionik/Downloads/learn-node/NODE_srt/03 - Starter Files and Environmental Variables.srt",
+		"/home/ionik/tmp/PythonLearning/IntermediateTutorial/insertingSort.py",
+		"/home/ionik/tmp/wireshark_debug.log",
+		"/home/ionik/tmp/PythonLearning/IntermediateTutorial/pets.py",
+		"/home/ionik/tmp/PythonLearning/IntermediateTutorial/myClass.py",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/app/asterisk/sip.conf",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/app/asterisk/extensions.conf",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/app/asterisk/extensions.lua",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/app/beepcall.sublime-project",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/stat-aggregator/src/test.py",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/stat-aggregator/src/stat-aggregator.py",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/stat-aggregator/src/README.md",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/stat-aggregator/src/Dockerfile",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/stat-aggregator/src/update_image.sh",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/stat-aggregator/requirements.txt",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/stat-aggregator/src/requirements.txt",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/stat-aggregator/src/agregate_data.py",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/stat-aggregator/src/test.log",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/stat-aggregator/stat-aggregator.sublime-project",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/stat-aggregator/bcall_data_aggregation.sublime-project",
+		"/home/ionik/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/data_aggregate/lib/python3.6/site-packages/psycopg2/extras.py",
+		"/home/ionik/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/data_aggregate/bcall_data_aggregation.sublime-project",
+		"/home/ionik/.config/sublime-text-3/Packages/User/Python3.6.sublime-build",
+		"/home/ionik/.config/sublime-text-3/Packages/project_venv_repls.py",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/app/asterisk/agi-app/config.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/app/asterisk/agi-app/app.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/data_aggregate/src/agregate_data.py",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/agragate_data.py",
+		"/home/ionik/Desktop/bcall_calls.sql",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/app/asterisk/agi-app/app-dev.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/app/asterisk/agi-app/sandbox.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/app/asterisk/sftp-config.json",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/app/asterisk/agi-app/composer.json",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/app/asterisk/agi-app/sftp-config.json",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/test/exec_time.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/app/asterisk/agi-app/vendor/autoload.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/app/asterisk/agi-app/vendor/psr/log/Psr/Log/AbstractLogger.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/app/asterisk/agi-app/vendor/psr/log/Psr/Log/LoggerAwareTrait.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/app/asterisk/agi-app/vendor/psr/log/Psr/Log/LoggerInterface.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/test/performance_test.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/tmp.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/app/asterisk/agi-app/performance-test.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/app/.gitignore",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/app/crontab/aggregate_call_data.py",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/app/asterisk/agi-app/app-test.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/app/asterisk/extensions.ael",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/test/scenarios/beepcall_app.xml",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/app/asterisk/agi-app/asterisk_opened_files.sh",
+		"/home/ionik/test_results/результаты",
+		"/home/ionik/fail_calls",
+		"/home/ionik/full",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/test/scenarios/default_uac_scenario.xml",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/test/tmp.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/test/input_data/caller_id.csv",
+		"/run/user/1000/gvfs/sftp:host=10.1.1.182/home/ionik/input_data/caller_id.csv",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/test/test_INVITE.xml",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/test/uac.xml",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/test/REGISTER_client.xml",
+		"/home/ionik/Desktop/REGISTER_SUBSCRIBE_client.xml",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/test/INVITE_clients.csv",
+		"/home/ionik/Desktop/Хаки_для_мотивации.txt",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/test/OPTIONS_recv_200.xml",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/test/OPTIONS.xml",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/test/REGISTER_client.csv",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/test/REGISTER_client.",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/test/sipp/bcall_test.sh",
+		"/home/ionik/Programs/sipp-3.3/tools/monitor/auto_script",
+		"/home/ionik/Programs/SIPP/sipp-3.3/tools/monitor/auto_script",
+		"/home/ionik/Downloads/mib-navigator/mib.xsd",
+		"/home/ionik/.cache/.fr-vb4orU/sipp-3.3/README.txt",
+		"/home/ionik/.config/sublime-text-3/Packages/User/sftp_servers/sm02-voice",
+		"/run/user/1000/gvfs/sftp:host=10.1.1.181/home/ionik/asterisk/extensions.ael",
+		"/home/ionik/statistics-service-old/README.md",
+		"/home/ionik/.config/terminator/config",
+		"/tmp/psql.edit.10785.sql",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/smart-portal_beepcall-app/asterisk/extensions.conf",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/business_logic/app.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/business_logic/agi-app.log",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/business_logic/config.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/business_logic/test_date.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/business_logic/StatisticsLogger.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/business_logic/log_call.py",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/business_logic/pg-test.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/php-agi/app.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/php-agi/vendor/phpagi/phpagi-asmanager.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/php-agi/vendor/phpagi/phpagi-fastagi.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/php-agi/agi.log",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/php-agi/test.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/php-agi/sftp-config.json",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/php-agi/vendor/phpagi/phpagi.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/php-agi/ttt.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/php-agi/tmp.log",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/php-agi/my_agi.log",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/py-fagi-server/app.py",
+		"/home/ionik/.navicat64/user.reg",
+		"/home/ionik/.navicat64/navicat.crontab",
+		"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/agi-js/app.js",
+		"/home/ionik/Projects/arsenal-media/smart-portal/stat-api/src/routes.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/stat-api/src/dependencies.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/stat-api/app/settings.php",
+		"/home/ionik/Projects/arsenal-media/smart-portal/stat-api/src/Controllers/BeepcallReportController.php",
+		"/home/ionik/pg_test.php",
+		"/home/ionik/Downloads/10-15.xml",
+		"/home/ionik/Downloads/10-15_part-1.xml",
+		"/home/ionik/Downloads/10-15_part-2.xml",
+		"/home/ionik/Downloads/1-6.xml",
+		"/home/ionik/Downloads/1.xml",
+		"/home/ionik/Downloads/2.xml",
+		"/home/ionik/Downloads/TutsPlus - PostgreSQL Essentials/tutorials.csv",
+		"/home/ionik/Downloads/TutsPlus - PostgreSQL Essentials/authors.csv",
+		"/home/ionik/Downloads/TutsPlus - PostgreSQL Essentials/books_.csv",
+		"/home/ionik/Programs/DataGrip-2016.3.2/Install-Linux-tar.txt"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+			"/home/ionik/Projects/arsenal-media/smart-portal/smart02/beep-call/php-agi",
+			"/home/ionik/Projects/arsenal-media/smart-portal/ivr",
+			"/home/ionik/Projects/arsenal-media/smart-portal/ivr/datings/menus",
+			"/home/ionik/Projects/arsenal-media/smart-portal/ivr/datings",
+			"/home/ionik/Projects/arsenal-media/smart-portal/ivr/common",
+			"/home/ionik/Projects/arsenal-media/smart-portal/ivr/datings/menus",
+			"/home/ionik/Projects/arsenal-media/smart-portal/ivr/datings",
+			"/home/ionik/Projects/arsenal-media/smart-portal/1",
+			"/home/ionik/Projects/arsenal-media/smart-portal/ivr/datings",
+			"/home/ionik/Projects/arsenal-media/asterisk/datings",
+			"/home/ionik/Projects/asterisk/prod/sections/",
+			"/home/ionik/Projects/asterisk/prod/section/",
+			"/home/ionik/Projects/asterisk/prod/section",
+			"/home/ionik/Projects/asterisk/prod",
+			"/home/ionik/Projects/Catchup-lua/catchup",
+			"/",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"setLastName",
+			"vec1",
+			"getOutdatedCallsData",
+			"print(",
+			"cleanCallEventsLog",
+			"execute",
+			")\n",
+			"  +",
+			"cursor",
+			"call_ids_str",
+			"call_ids",
+			"row",
+			"debug",
+			"['",
+			"f_off_net",
+			"off_net",
+			"checkBarring",
+			"sendApiRequest",
+			"saveStatistics_tmp",
+			"isRecipientInSmartPool",
+			"isBeepcallDayLimitReached",
+			"numbers",
+			"isRecipientInSmartPool",
+			"isValidRecipient",
+			"initCall",
+			"initializeCall",
+			"CURLOPT_RETURNTRANSFER",
+			"announcement",
+			"announcementFiles",
+			"voiceFiles",
+			"announcementFiles",
+			"app",
+			"Hangup",
+			"isValidRecipient",
+			"CallerID:",
+			"00004777",
+			"00004774",
+			"initi",
+			"//logData(",
+			"logData(",
+			"field0",
+			"086264466",
+			"Try",
+			"ringi",
+			"$",
+			"&",
+			"$",
+			"bypass",
+			"responseData",
+			"46546",
+			"isSmartNumber",
+			"$callData['sms']['response_id']",
+			"caller",
+			"PARAM_STR",
+			"callData['asterisk_params']['agi_uniqueid']",
+			"$cid",
+			"cid",
+			" ($",
+			"not_required",
+			"cid",
+			"logData",
+			"Playback",
+			"set_variable",
+			"logData",
+			"=>",
+			"reponse_id",
+			"statDB",
+			"3",
+			"call_id",
+			"asterParams",
+			"fastagi",
+			"DIALSTATUS",
+			"=>",
+			":",
+			"get_varia",
+			"get_var",
+			"get_varia",
+			"set_var",
+			"$ret['result']",
+			"AGIRES_OK",
+			"evalu",
+			"exec",
+			"agi",
+			"errors",
+			"debug",
+			"log",
+			"logCall",
+			"recipient",
+			"stdin",
+			"request",
+			"->",
+			"fwrite",
+			"exec",
+			"which",
+			"tempdir",
+			"make_folder",
+			"port",
+			"_testcall_handler",
+			"testcall",
+			"return $response;->withJson($reportData);",
+			"(\\|+\\|){1}",
+			"('.+'){1}",
+			"(\\|\\|){1}",
+			"('.+'){1}",
+			"\\|'",
+			"('.+'){1}",
+			"xmlattributes",
+			":",
+			"`",
+			"var.*",
+			"autoload",
+			"App",
+			"`",
+			"sender",
+			"autoload",
+			"toolbox",
+			"from",
+			"make_srv_out",
+			"hw",
+			"conn_r",
+			"con_r",
+			"conn_r",
+			"get_srv_by_usl",
+			"logAndExit",
+			"exitl",
+			"$s",
+			"\\(.*\\)",
+			"\\(\\)"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			" ",
+			"call",
+			"isCallsDayLimitReached",
+			"initCall",
+			"prompt",
+			"voiceFiles",
+			"logData(",
+			"//logData(",
+			"",
+			"callId",
+			"caller",
+			"logToFile",
+			"db",
+			"|",
+			"",
+			"$logger->logAndExit",
+			"$this->logAndExit",
+			"logAndExit",
+			"/statistics/old/",
+			"index.php?type=",
+			"..",
+			"statusAnswer",
+			"returnAnswer",
+			"returnBody",
+			"returnCode",
+			"",
+			"v",
+			"NoOp",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/ionik/Development/sandbox/php/unit-testing/tests/unit/UserTest.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2039,
+								2039
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"color_helper.box_height": 16,
+							"color_helper.color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".php",
+								"current_syntax": "PHP/PHP",
+								"enabled": false,
+								"last_updated": 1503973633.36
+							},
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 576.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 912,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								878,
+								878
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"color_helper.box_height": 16,
+							"color_helper.color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".php",
+								"current_syntax": "PHP/PHP",
+								"enabled": false,
+								"last_updated": 1503973633.36
+							},
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///home/ionik/Projects/personal/TestGoProject":
+	{
+		"height": 118.0
+	},
+	"output.9o:///home/ionik/Projects/personal/goworkspace/src/hello_world":
+	{
+		"height": 118.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 100.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 118.0
+	},
+	"output.exec":
+	{
+		"height": 323.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.golang_build":
+	{
+		"height": 118.0
+	},
+	"output.sftp":
+	{
+		"height": 120.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "Packages/User/Python3.6.sublime-build",
+	"project": "unit-testing-example.sublime-project",
+	"replace":
+	{
+		"height": 90.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"tm",
+				"tmp.log"
+			],
+			[
+				"",
+				"agi.log"
+			],
+			[
+				"beans.xml",
+				"ami-app/vendor/marcelog/ding/docs/examples/PAGI/beans.xml"
+			],
+			[
+				"u",
+				"Util.lua"
+			],
+			[
+				"d",
+				"Db.lua"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projects/arsenal-media/asterisk/datings/datings-lua.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
